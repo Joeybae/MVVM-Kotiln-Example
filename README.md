@@ -10,7 +10,7 @@ Reference
 Architecture
 ---------
 <div>
-  <width="600" src="https://user-images.githubusercontent.com/45925992/54183588-e153a400-44e7-11e9-9463-0329ce749d8e.png">
+  <width="600" src="https://user-images.githubusercontent.com/45925992/54183681-0d6f2500-44e8-11e9-94c6-19299387b07a.png">
 </div>
 
 Screenshots
